@@ -44,5 +44,7 @@ In this work, we propose a novel framework for recipe retrieval named Hybrid Fus
 ## Here are more Results on cross-modal recipe retrieval
 <p align="center"><img src="imgs/rcp2img.png" width="95%" alt="" /></p>
 
+<p align="center"><img src="imgs/rcp2img_3.PNG" width="95%" alt="" /></p>
+
 <p align="center"><img src="imgs/img2rcp1.PNG" width="95%" alt="" /></p>
 
