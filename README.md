@@ -44,12 +44,10 @@ In this work, we propose a novel framework for recipe retrieval named Hybrid Fus
 ## Here are more Results on cross-modal recipe retrieval
 ### Examples of rcp2img
 <p align="center"><img src="imgs/rcp2img.png" width="95%" alt="" /></p>
-
 <p align="center"><img src="imgs/rcp2img_3.png" width="95%" alt="" /></p>
-
 ### Examples of img2rcp
 <p align="center"><img src="imgs/img2rcp1.PNG" width="95%" alt="" /></p>
-
 ### Main results
-<p align="center"><img src="imgs/img2rcp1.PNG" width="95%" alt="" /></p>
+<p align="center"><img src="imgs/result_table.png" width="95%" alt="" /></p>
+The cross-modal retrieval performance of models is evaluated with MedR (lower is better) and R@K (higher is better)
 
