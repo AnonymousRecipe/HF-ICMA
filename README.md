@@ -4,7 +4,7 @@ This repository is the **anonymous** Pytorch implementation of the HF-ICMA metho
 
 <p align="center"><img src="imgs/framework_2.png" width="95%" alt="" /></p>
 
-The proposed HF-ICMA contains two key procedures: intra-modality feature encoding and cross-modality feature learning, which jointly formulate the final image-recipe similarity S(I,R) from both the local and global aspects. Notably, the pre-trained ResNet-50, word2vector (W2V) and sentence2vector (S2V) models are utilized to extract input features of images, ingredients and instructions, respectively. 
+The proposed HF-ICMA contains two key procedures: intra-modality feature encoding and cross-modality feature learning, which jointly formulate the final image-recipe similarity *S(I,R)* from both the local and global aspects. Notably, the pre-trained ResNet-50, word2vector (W2V) and sentence2vector (S2V) models are utilized to extract input features of images, ingredients and instructions, respectively. 
 
 ## Installation and Requirements
 
