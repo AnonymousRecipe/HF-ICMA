@@ -42,9 +42,14 @@ You can change the hyper-parameters if you want to try different configurations.
 In this work, we propose a novel framework for recipe retrieval named Hybrid Fusion with Intra- and Cross-Modality Attention for Image-Recipe Retrieval (HF-ICMA). Our model adopts an intra-recipe fusion module to focus on the interaction between ingredients and instructions within a recipe, and further enrich the expressions of the two separate embeddings. Meanwhile, a cross-modality fusion module is used to explore the potential relationship between fine-grained image regions and ingredients from the recipe. Extensive experiments on the benchmark dataset Recipe1M show that our model significantly improves the retrieval metrics and surpasses all the state-of-the-art methods.
 
 ## Here are more Results on cross-modal recipe retrieval
+### Examples of rcp2img
 <p align="center"><img src="imgs/rcp2img.png" width="95%" alt="" /></p>
 
-<p align="center"><img src="imgs/rcp2img_3.PNG" width="95%" alt="" /></p>
+<p align="center"><img src="imgs/rcp2img_3.png" width="95%" alt="" /></p>
 
+### Examples of img2rcp
+<p align="center"><img src="imgs/img2rcp1.PNG" width="95%" alt="" /></p>
+
+### Main results
 <p align="center"><img src="imgs/img2rcp1.PNG" width="95%" alt="" /></p>
 
